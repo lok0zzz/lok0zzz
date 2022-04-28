@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  ☕ Habilidades: <strong>HTML, CSS, JavaScript, Python, Data.</strong>
+  ☕ Habilidades: <strong>HTML, CSS, JavaScript, Python, Data, Django</strong>
 </p>
 
 <p align="left">
