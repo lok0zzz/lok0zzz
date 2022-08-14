@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, PyCharm, Google Colab, Jupyter, Git, GitHub</strong>
+  💼 Ferramentas: <strong>VS Code, PyCharm, Google Colab, Jupyter, Git, GitHub, PowerBI, MongoDB, PostgreSQL</strong>
 </p>
 
 
